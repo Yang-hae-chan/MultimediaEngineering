@@ -1,0 +1,7 @@
+﻿  DCT_1.c
+C:\Users\y9711\Desktop\CWorkSpace\MultimediaEngineering\DCT\DCT_1.c(11,12): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+C:\Users\y9711\Desktop\CWorkSpace\MultimediaEngineering\DCT\DCT_1.c(10,12): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\y9711\Desktop\CWorkSpace\MultimediaEngineering\DCT\DCT_1.c(34,12): warning C4101: 'start1' :참조되지 않은 지역 변수입니다.
+C:\Users\y9711\Desktop\CWorkSpace\MultimediaEngineering\DCT\DCT_1.c(10,9): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\y9711\Desktop\CWorkSpace\MultimediaEngineering\DCT\DCT_1.c(34,20): warning C4101: 'end1' :참조되지 않은 지역 변수입니다.
+  DCT.vcxproj -> C:\Users\y9711\Desktop\CWorkSpace\MultimediaEngineering\DCT\Debug\DCT.exe
